@@ -147,7 +147,7 @@ public class Task_2 {
 			break;
 		default:
 			System.out.println("PASS, Rather Good");
-			break;
+			//break;
 		}
 	}
 }
